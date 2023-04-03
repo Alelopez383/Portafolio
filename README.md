@@ -7,3 +7,11 @@ Through these projects, I have gained a strong understanding of the development 
 This **Portafolio** is a draft.
 
 You can check it out: https://alelopez383.github.io/Portafolio/
+
+# Tools
+- HTML
+- CSS
+- Javascript
+- Python
+- VS Code
+- Gradient Text Generator (use this link for the code to customize the colors as you like: https://www.cssgradienttext.com/)

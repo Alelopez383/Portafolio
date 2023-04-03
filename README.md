@@ -36,4 +36,4 @@ To build a web page using HTML, CSS, and JavaScript, we need to create at least 
 
 In the example code, the CSS file is linked using the ** '<link>' tag** with the **'rel=' attribute** set to **"stylesheet"** and the **'href' attribute** set to **"styles.css"**. The JavaScript file is linked using the **'<script>' tag** with the **'src=' attribute** set to **"script.js"**.
 
-** In my **Portafolio** my files are named index.html, app.css (the **'rel=' and 'href=' attributes**) and app.js (the **'src=' attribute**).
+** In my **Portafolio**. the files are named index.html, app.css (the **'rel=' and 'href=' attributes**) and app.js (the **'src=' attribute**).**

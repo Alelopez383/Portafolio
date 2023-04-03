@@ -15,3 +15,4 @@ You can check it out: https://alelopez383.github.io/Portafolio/
 - Python
 - VS Code
 - Gradient Text Generator (use this link for the code to customize the colors as you like: https://www.cssgradienttext.com/)
+- Check this link to know more about tags in HTML: https://caninclude.glitch.me/ 

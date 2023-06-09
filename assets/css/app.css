@@ -1,6 +1,6 @@
 html, body {margin: 5px;
   padding-bottom: 70px;
-  background-color: rgb(235, 229, 229) !important;
+  background-color: rgb(221, 220, 217) !important;
   font-family: 'Lato', sans-serif;
 }
 
@@ -18,13 +18,13 @@ h1 {
 
 footer {
   background-color: #343a40;
-  color: #fff;
+  color: #f7f7f8;
   display: flex;
   align-items: flex-start;
 }
 
 footer a {
-  color: #fff;
+  color: #1e2d4d;
 }
 
 .header-container {
@@ -199,7 +199,7 @@ footer a {
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
 	 background: #ffcf32;
-	 color: #fff;
+	 color: #2a2a5a;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
 	 -webkit-border-radius: 3px 3px 0 0;
